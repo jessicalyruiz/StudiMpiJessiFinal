@@ -1,0 +1,3 @@
+D:/Users/PERSONAL/CLionProjects/StudyMpiJessiFinal/cmake-build-debug/CMakeFiles/StudyMpiJessiFinal.dir
+D:/Users/PERSONAL/CLionProjects/StudyMpiJessiFinal/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/PERSONAL/CLionProjects/StudyMpiJessiFinal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
